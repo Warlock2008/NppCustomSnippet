@@ -22,7 +22,9 @@ write three line:
 (Warnning: when i wrote this doc in my desktop , its three line,
 But after i uploaded it to github,
 it show as one line in web , please download this readme doc to local
-then it will show correct format.)
+then it will show correct format.
+Or , you can directly read the ReadMe.txt file , not the README.md
+)
 
 cmd
 $$
