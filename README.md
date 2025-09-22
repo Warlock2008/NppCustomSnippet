@@ -9,7 +9,7 @@ its used for code snippet.But you could custom more.
 
 As we know, there were some other plugin like "QuickText", 
 
-I want make a snippet function which i could send params ,
+I want to make a snippet function which i could send params ,
 then the snippet content use these params.
 
 How does it work?
@@ -18,6 +18,11 @@ Step1:
 
 Open a txt file,
 write three line:
+
+(Warnning: when i wrote this doc in my desktop , its three line,
+But after i uploaded it to github,
+it show as one line in web , please download this readme doc to local
+then it will show correct format.)
 
 cmd
 $$
